@@ -1,0 +1,26 @@
+[package]
+name = "rust_tutorial"
+version = "0.1.0"
+authors = ["Frank Schneider <fs@shoul.de>"]
+
+[[bin]]
+name = "hello_world"
+path = "src/hello_world.rs"
+
+[[bin]]
+name = "vectors"
+path = "src/vectors.rs"
+
+[[bin]]
+name = "if"
+path = "src/if.rs"
+
+[[bin]]
+name = "loops"
+path = "src/loops.rs"
+
+[[bin]]
+name = "ownership"
+path = "src/ownership.rs"
+
+[dependencies]
