@@ -1,3 +1,5 @@
+NOTE: This tutorial ist in progress and will it be for a wile ;). 
+
 # Rust Tutorial
 
 Each sorce file in `src` is a small part of rust. You can run each file by its own:
